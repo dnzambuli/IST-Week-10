@@ -54,3 +54,6 @@ For Linux and Unix [click here](https://git-scm.com/download/linux)
 ```git init``` start tracking changes
 ```git add``` added changes to be tracked
 ```git status``` the status of the working tree - have changes been set up to be tracked
+```git log ``` show the commits labeled as a **commit hash**
+- hashes have author names and what was commited 
+```git checkout 'commit hash code' ``` revert to the staged changes at a certain commit
